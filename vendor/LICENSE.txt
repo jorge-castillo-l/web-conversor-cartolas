@@ -1,0 +1,4 @@
+SheetJS Community Edition 0.18.5 (xlsx.full.min.js)
+https://github.com/SheetJS/sheetjs
+License: Apache License 2.0
+https://github.com/SheetJS/sheetjs/blob/master/LICENSE

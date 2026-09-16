@@ -1,0 +1,7 @@
+Logos usados solo para identificar bancos y el destino Skualo. Las marcas pertenecen a sus dueños. Este conversor no está afiliado.
+
+- Skualo: logotipo público de su documentación (docs.skualo.cl / files.readme.io)
+- BCI: logotipo (cdn.worldvectorlogo.com/logos/bci-logotype.svg)
+- BancoEstado: Wikimedia Commons, Logo BancoEstado.svg
+- Itaú: Wikimedia Commons, Banco Itaú logo.svg
+- Santander: Wikimedia Commons, Banco Santander Logotipo.svg
