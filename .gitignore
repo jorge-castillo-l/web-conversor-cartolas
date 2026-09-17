@@ -4,6 +4,10 @@ desktop.ini
 .env
 .env.*
 *.log
-pruebas/*.xlsx
-pruebas/*.xls
-pruebas/*.xlsm
+node_modules/
+
+# Cartolas y Excel de clientes (nunca van al repo)
+*.xlsx
+*.xls
+*.xlsm
+~$*
